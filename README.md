@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ndinkel
+- 👋 Hi, I’m @Ninouilleuh
 - 👀 I’m interested in IA and gamming
 - 🌱 I’m currently learning C 
 

@@ -12,4 +12,7 @@ CV Page
 Nina@GitHub:~$ git status
 Nina@GitHub:~$ █
 ```
+<p align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/palomaresnina3.png" alt="Your Image Badge" />
 <img src="https://github-readme-stats.vercel.app/api?username=ninouilleuh&show_icons=true&theme=radical" alt="Nina's GitHub Stats">
+</p>
